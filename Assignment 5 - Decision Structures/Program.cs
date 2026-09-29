@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment_5___Decision_Structures
 {
-    internal class Program
+    internal class Program //Maxym F.
     {
         static void Main(string[] args)
         {
